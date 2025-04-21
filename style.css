@@ -3,9 +3,16 @@
 }
 .container {
     background: #efcbcb;
-    color:rgb(34, 28, 8);
-    font-family: sans-serif;
+    color:rgb(2, 48, 3);
+    font-family: poppins, sans-serif;
+    padding: 20px 50px;
+    border-radius: 25px;
+    text-align: center;
+    margin: 50px;
 }
 h1, h2, p {
     background: transparent;
+}
+p {
+    text-align: left;
 }
